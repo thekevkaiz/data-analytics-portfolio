@@ -34,6 +34,18 @@ SUM, AVERAGE, MAX, MIN, SUMIF, clean layout design
 📥 [Download Expense Tracker Excel File](https://github.com/thekevkaiz/data-analytics-portfolio/raw/refs/heads/main/02-expense-tracker/expense-tracker.xlsx.xlsx)
 
 ---
+## 📘 03 - Student Score Tracker
+
+This beginner-friendly Excel project tracks students' performance across multiple subjects. I used this to practice essential Excel skills like:
+
+- Table creation and formatting
+- Logical formulas and functions (e.g., AVERAGE, MAX, IF)
+- Conditional formatting for visual insights
+- Clean, organized layout for readability
+
+🗂️ [Download the Excel file](03-student-score-tracker/student-score-tracker.xlsx)
+
+This project helped me solidify my understanding of spreadsheet organization and formula application while working with practical, real-life data.
 
 ## 🚀 About Me
 
