@@ -37,5 +37,21 @@ A project to monitor and analyze student scores across subjects using formulas a
 [Download Student Score Tracker Excel File](https://github.com/thekevkaiz/data-analytics-portfolio/raw/refs/heads/main/03-student-score-tracker/student-score-tracker.xlsx)
 
 ---
+---
+
+### New Project Update
+
+**4. [Employee Performance Tracker](https://github.com/thekevkaiz/data-analytics-portfolio/raw/refs/heads/main/04-employee-performance-tracker/employee-performance-tracker.xlsx)**  
+A detailed Excel workbook evaluating employee performance based on weighted metrics across departments. This project focuses on applying advanced logical functions and formatting for clearer data insights.  
+
+**Skills and formulas used:**  
+- Logical Functions: `IF`, `IFS` to evaluate multiple conditions  
+- Weighted Averages for combining performance metrics  
+- Percentage formatting for clear score representation  
+- Named ranges to make formulas more readable  
+- Conditional Formatting to highlight key results  
+
+---
+
 
 Thank you for visiting my portfolio! I am excited to continue learning and adding more complex projects to demonstrate my growing capabilities in data analysis.
