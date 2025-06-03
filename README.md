@@ -1,56 +1,41 @@
-# 📊 Data Analytics Portfolio
+# Data Analytics Portfolio
 
-Welcome to my beginner data analytics portfolio! This repo documents my learning journey as I build core skills in Excel, Power BI, and beyond.
+Welcome to my Data Analytics Portfolio!  
+I am an aspiring data analyst building foundational skills in data organization, analysis, and visualization using Excel. Through hands-on projects, I am progressively growing my expertise in applying formulas, functions, and data management techniques to solve real-world problems.  
 
-Below are two foundational Excel projects showcasing my practice with formulas, summaries, and structured data.
-
----
-
-## 🧾 1. Sales Tracker (Beginner Project)
-
-Tracks basic sales data including:
-- Products sold
-- Quantity
-- Unit price
-- Total revenue
-
-💡 **Skills Practiced**: 
-Formulas (`=A*B`), Total calculations (`=SUM()`), Basic data formatting
-
-📥 [Download Sales Tracker Excel File](https://github.com/thekevkaiz/data-analytics-portfolio/raw/refs/heads/main/01-sales-tracker/sales-tracker-beginner.xlsx.xlsx)
+This portfolio captures my learning journey as I develop practical skills that are essential in data-driven roles.
 
 ---
 
-## 💸 2. Expense Tracker (Polished Project)
+## 📈 Skills Developed So Far
 
-A personal expense monitoring tool with:
-- Categories (food, transport, etc.)
-- Total expenses
-- Metrics like average, max, min
-
-💡 **Skills Practiced**: 
-SUM, AVERAGE, MAX, MIN, SUMIF, clean layout design
-
-📥 [Download Expense Tracker Excel File](https://github.com/thekevkaiz/data-analytics-portfolio/raw/refs/heads/main/02-expense-tracker/expense-tracker.xlsx.xlsx)
+- Excel basics: workbooks, worksheets, ribbons  
+- Formulas and functions: SUM, IF, COUNTIF, SUMIFS, etc.  
+- Data organization: tables, formatting, and clean data principles  
+- Conditional formatting for data insights  
+- Basic data visualization techniques  
+- Portfolio management using GitHub for version control and sharing
 
 ---
-## 📘 03 - Student Score Tracker
 
-This beginner-friendly Excel project tracks students' performance across multiple subjects. I used this to practice essential Excel skills like:
+## 📊 Excel Projects
 
-- Table creation and formatting
-- Logical formulas and functions (e.g., AVERAGE, MAX, IF)
-- Conditional formatting for visual insights
-- Clean, organized layout for readability
+### 1. Sales Tracker
+A beginner-level project that tracks sales transactions and performance metrics, helping me understand data entry, basic calculations, and data summarization.  
+[Download Sales Tracker Excel File](https://github.com/thekevkaiz/data-analytics-portfolio/raw/refs/heads/main/01-sales-tracker/sales-tracker-beginner.xlsx)
 
-🗂️ [Download the Excel file](03-student-score-tracker/student-score-tracker.xlsx)
+---
 
-This project helped me solidify my understanding of spreadsheet organization and formula application while working with practical, real-life data.
+### 2. Expense Tracker
+An organized tool for recording and categorizing daily expenses, with monthly summaries that practice applying conditional sums and date functions.  
+[Download Expense Tracker Excel File](https://github.com/thekevkaiz/data-analytics-portfolio/raw/refs/heads/main/02-expense-tracker/expense-tracker.xlsx)
 
-## 🚀 About Me
+---
 
-I'm a beginner data analyst based in Lagos, Nigeria. I'm actively learning and sharing projects publicly to track my growth and build a valuable skill stack employers can't ignore.
+### 3. Student Score Tracker
+A project to monitor and analyze student scores across subjects using formulas and conditional formatting, reinforcing data analysis fundamentals.  
+[Download Student Score Tracker Excel File](https://github.com/thekevkaiz/data-analytics-portfolio/raw/refs/heads/main/03-student-score-tracker/student-score-tracker.xlsx)
 
-Stay tuned — more projects coming soon!
+---
 
-
+Thank you for visiting my portfolio! I am excited to continue learning and adding more complex projects to demonstrate my growing capabilities in data analysis.
